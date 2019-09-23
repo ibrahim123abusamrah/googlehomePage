@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.right_top_page li {
+    margin-top: 10px;
+    padding: 10px;
+}
+.pagtext li a {
+    color: rgb(90, 90, 91);
+}
+.right-top-imgs img {
+    float: right;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-right: 6px;
+    height: 20px;
+    width: 20px;
+  
+  
+}
+
+.left-top-menu {
+    float: left;
+    margin-left: 10px;
+}
+.pagtext li {
+    list-style: none;
+    display: inline-block;
+}
+
+
+.buttom-menu {
+    background-color: rgb(240, 240, 240);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.right-top-menu {
+    list-style: none;
+    float: right;
+   
+}
+.buttom-menu li {
+    padding: 15px;
+}
+
+.left_menu {
+    float: left;
+    margin-left: 10px;
+}
+
+.right_menu {
+    float: right;
+    margin-right: 10px;
+}
+
+.serch {
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+    margin-top: 15%;
+    position: fixed;
+ 
+}
+
+.logo img {
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 37%;
+    width: 25%;
+    size: 50%;
+}
+
+input {
+    width: 45%;
+    height: 35px;
+    box-sizing: border-box;
+    padding-left: 1%;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 27%;
+    border-radius: 2px;
+    border: 1px solid rgba(207, 212, 207);
+    box-shadow: 1px 2px 3px rgba(199, 196, 196)
+
+}
+
+.buttons {
+    margin-top: 4%;
+    position: relative;
+    width: 100%;
+}
+
+.button {
+    border: 1px solid #d3d3d3;
+	background: #f3f3f3;
+	color:#696969;
+	margin-left:10px;
+    margin-right:10px;
+    font-size: 11px;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+	padding: 7px;
+}
+
+.button-search {
+    margin-left: 35%;
+}
+
+.button-Feel-lucky {
+    margin-left: 5%;
+}
+
